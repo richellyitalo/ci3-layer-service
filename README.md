@@ -12,7 +12,7 @@ $config['subclass_prefix'] = 'MY_';
 
 No controller, basta dar 'load' no serviço e executar o método necessário:
 ```php
-// application/controllers/Sample
+// application/controllers/Sample.php
 
 class Sample extends MY_Controller
 {
